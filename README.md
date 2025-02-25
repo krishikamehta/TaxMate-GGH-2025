@@ -78,3 +78,20 @@ Tax Summary for 2024:
 - Estimated Taxable Income: $50,000
 - Potential Deductions: $5,000 (Investments, Health Insurance, etc.)
 - Recommended Tax Savings: $1,200
+
+## Limitations
+
+- Tax laws often change, and revisions are needed to ensure accuracy.
+- Personalized suggestions rely on the quality of input data.
+- Though AI gives insights, **you should consult a professional** in case of intricate tax situations.
+
+### Contributors
+
+**Krishika Mehta**
+
+## Disclaimer
+
+TaxMate is an AI-powered assistant intended for informational purposes only.  
+Please consult a tax professional for official tax filings.
+
+
