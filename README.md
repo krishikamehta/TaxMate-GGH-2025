@@ -41,13 +41,18 @@ Ensure you have the following installed:
 # Clone this repository
 git clone https://github.com/krishikamehta/TaxMate-GGH-2025.git
 cd TaxMate-GGH-2025
+```
 
 # Create a virtual environment
+```sh
 python -m venv env
 source env/bin/activate   # On Windows use: env\Scripts\activate
+```
 
 # Install dependencies
+```sh
 pip install -r requirements.txt
+```
 
 ## Running TaxMate
 
@@ -55,6 +60,7 @@ pip install -r requirements.txt
 
 ```sh
 jupyter notebook TaxMate.ipynb
+```
 
 ## Usage
 
@@ -78,6 +84,7 @@ Tax Summary for 2024:
 - Estimated Taxable Income: $50,000
 - Potential Deductions: $5,000 (Investments, Health Insurance, etc.)
 - Recommended Tax Savings: $1,200
+```
 
 ## Limitations
 
