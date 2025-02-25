@@ -62,3 +62,19 @@ jupyter notebook TaxMate.ipynb
 2. The AI will parse your finances and offer **tailored strategies for your tax saving measures**.
 3. Go over suggestions to counsel them to your liking before moving on to the filing of your taxes.
 
+## Project Architecture
+
+1. **Data Collection**: Safely collects income, expenditure, and tax information.
+2. **Data Processing**: Cleans, normalizes, and extracts useful financial features.
+3. **AI Processing**:
+   - Fetches tax laws from **Chroma DB**.
+   - Utilizes **LLM (Zephyr-7b-beta)** to create customized tax-saving plans.
+4. **Output & Insights**: Shows easy-to-understand tax suggestions and deductions.
+
+## Example Output
+
+```plaintext
+Tax Summary for 2024:
+- Estimated Taxable Income: $50,000
+- Potential Deductions: $5,000 (Investments, Health Insurance, etc.)
+- Recommended Tax Savings: $1,200
