@@ -38,18 +38,18 @@ Ensure you have the following installed:
 ### Installation
 
 ```sh
-# Clone this repository
+### Clone this repository
 git clone https://github.com/krishikamehta/TaxMate-GGH-2025.git
 cd TaxMate-GGH-2025
 ```
 
-# Create a virtual environment
+### Create a virtual environment
 ```sh
 python -m venv env
 source env/bin/activate   # On Windows use: env\Scripts\activate
 ```
 
-# Install dependencies
+### Install dependencies
 ```sh
 pip install -r requirements.txt
 ```
@@ -92,7 +92,7 @@ Tax Summary for 2024:
 - Personalized suggestions rely on the quality of input data.
 - Though AI gives insights, **you should consult a professional** in case of intricate tax situations.
 
-### Contributors
+## Contributors
 
 **Krishika Mehta**
 
