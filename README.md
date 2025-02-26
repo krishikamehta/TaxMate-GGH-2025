@@ -92,15 +92,13 @@ TaxMate leverages AI to simplify tax filing and provide intelligent insights. Th
 
 ## Implemented AI Features
 
-### AI Chatbot for Tax Queries
-- **Technique:** GPT-4 / BERT-based NLP  
-- **Use Case:** Helps users with tax-related questions by providing real-time responses.  
-
-### Automated Tax Filing Assistant
-- **Technique:** Rule-based AI + NLP  
-- **Use Case:** Guides users through tax filing by extracting key information and structuring it for submission.  
+  
 
 ## Future Scope
+
+### AI Chatbot for Tax Queries
+- **Technique:** GPT-4 / BERT-based NLP  
+- **Use Case:** Helps users with tax-related questions by providing real-time responses.
 
 ### Smart Tax Bracket Selection
 - **Planned Technique:** Binary Search + Decision Trees  
@@ -117,6 +115,10 @@ TaxMate leverages AI to simplify tax filing and provide intelligent insights. Th
 ### Fraud Detection & Risk Analysis
 - **Planned Technique:** Anomaly Detection (Autoencoders, Isolation Forests)  
 - **Purpose:** Identify suspicious deductions, misreported income, and tax fraud risks.  
+
+### Automated Tax Filing Assistant
+- **Technique:** Rule-based AI + NLP  
+- **Use Case:** Guides users through tax filing by extracting key information and structuring it for submission.  
 
 These future AI enhancements will make TaxMate more intelligent, predictive, and efficient in assisting users with tax-related tasks.
 
