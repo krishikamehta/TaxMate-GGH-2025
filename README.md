@@ -86,6 +86,41 @@ Tax Summary for 2024:
 - Recommended Tax Savings: $1,200
 ```
 
+## AI Techniques in TaxMate
+
+TaxMate leverages AI to simplify tax filing and provide intelligent insights. The following AI features are either **implemented** or **planned for future integration**:
+
+## Implemented AI Features
+
+### AI Chatbot for Tax Queries
+- **Technique:** GPT-4 / BERT-based NLP  
+- **Use Case:** Helps users with tax-related questions by providing real-time responses.  
+
+### Automated Tax Filing Assistant
+- **Technique:** Rule-based AI + NLP  
+- **Use Case:** Guides users through tax filing by extracting key information and structuring it for submission.  
+
+## Future Scope
+
+### Smart Tax Bracket Selection
+- **Planned Technique:** Binary Search + Decision Trees  
+- **Purpose:** Speed up tax rate lookup based on income and filing status.  
+
+### Tax Deduction Optimization
+- **Planned Technique:** Knapsack Algorithm + Reinforcement Learning  
+- **Purpose:** Optimize deductions to minimize tax liability while complying with regulations.  
+
+### Tax Liability Prediction
+- **Planned Technique:** XGBoost / Random Forest Regression  
+- **Purpose:** Predict future tax amounts based on income trends and expenses.  
+
+### Fraud Detection & Risk Analysis
+- **Planned Technique:** Anomaly Detection (Autoencoders, Isolation Forests)  
+- **Purpose:** Identify suspicious deductions, misreported income, and tax fraud risks.  
+
+These future AI enhancements will make TaxMate more intelligent, predictive, and efficient in assisting users with tax-related tasks.
+
+
 ## Limitations
 
 - Tax laws often change, and revisions are needed to ensure accuracy.
